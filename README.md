@@ -3,7 +3,7 @@
 <!-- ![minyatur](https://user-images.githubusercontent.com/99765449/221963965-4b03cc8b-f231-4635-91e0-79c21f29be5f.jpg) -->
 <!-- ![Home](https://user-images.githubusercontent.com/99765449/221964458-3c29f6f2-2502-4bc0-b571-d840bf8c2143.png) -->
 ![Twitter header - 1](https://user-images.githubusercontent.com/99765449/221965499-efed4b67-0a33-446d-834f-607ac6e876de.png)
-<h3>Hi my name is Hicham and that's it</h3>
+<h3>Hi my name is Hicham</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
