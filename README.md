@@ -4,7 +4,7 @@
 <!-- ![Home](https://user-images.githubusercontent.com/99765449/221964458-3c29f6f2-2502-4bc0-b571-d840bf8c2143.png) -->
 ![Twitter header - 1](https://user-images.githubusercontent.com/99765449/221965499-efed4b67-0a33-446d-834f-607ac6e876de.png)
 <h3>Introduction</h3>
-<p>Hello there, my name is Hicham and I am using Github (mimicking Whatsapp default bio lol). Uhm uhm, I guess you pretty are curious about my work and experiments since you are reading this so let me get straight. <br /> I am an interesting individual who cares about technology and innovation, I like designing and bringing my artistic side to the web. Alongside that, I do coding (Frontend, Backend, FullStack, Blockchain) and I focus on discovering and learning new technologies.<br /> Thank you for reading this much!</p>
+<p>Hello there, my name is Hicham and I am using Github (mimicking Whatsapp default bio lol). Uhm uhm, I guess you are pretty curious about my work and experiments since you are reading this so let me get straight. <br /> I am an interesting individual who cares about technology and innovation, I like designing and bringing my artistic side to the web. Alongside that, I do coding (Frontend, Backend, FullStack, Blockchain) and I focus on discovering and learning new technologies.<br /> Thank you for reading this much!</p>
 
 
 <h3 align="left">Languages and Tools:</h3>
